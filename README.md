@@ -144,7 +144,7 @@ xgboost
 **Steps:**
 
 ```bash
-git clone https://github.com/eva-protoype/<repo-name>.git
+git clone https://github.com/eva-protoype/heart_eda.git
 cd heart_eda
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
 ```
