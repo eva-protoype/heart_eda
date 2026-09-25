@@ -145,7 +145,7 @@ xgboost
 
 ```bash
 git clone https://github.com/eva-protoype/<repo-name>.git
-cd <repo-name>
+cd heart_eda
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
 ```
 
@@ -161,7 +161,7 @@ Open the notebook and run all cells.
 
 ```
 .
-├── heart-disease-classification.ipynb
+├── main-heart-disease.ipynb
 ├── sklearn-data/
 │   └── heart-disease.csv
 └── README.md
